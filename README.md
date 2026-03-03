@@ -29,6 +29,9 @@ Spotify® is a trademark of Spotify AB which does not sponsor, authorize, or end
 
 ## How to Use
 
+> [!IMPORTANT]
+> Starting **09.03.2026**, only Spotify **Premium** users will be able to use the Spotify Web API. Free accounts will no longer be supported for API access.
+
 ### 1. Setup Spotify API Credentials
 
 1. Go to the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/)
